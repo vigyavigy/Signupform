@@ -7,7 +7,7 @@
 	<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/normalize.min.css">
-	<link rel="stylesheet" href="css/login.css">
+	<link rel="stylesheet" href="css/signup.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 	 <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
 	<link type="text/css" href="ajax/signup.php">
